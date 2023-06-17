@@ -1,0 +1,33 @@
+
+*{
+    background-color: black;
+}
+h1{
+    font-size: 70px;
+    
+}
+#Signup_Conatinr{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  padding-left: 10%;
+  color: white;
+  gap: 20px;
+}
+#Signup_Conatinr input {
+    outline: none;
+    border: 0;
+    height: 30px;
+    border-bottom: 1px solid white;
+    color: white;
+    font-size: x-large;
+}
+#btn{
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    font-size: x-large;
+}
+#para{
+    color: white;
+}
